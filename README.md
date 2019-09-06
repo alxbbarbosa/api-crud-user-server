@@ -60,7 +60,7 @@ Feito as configurações acima, você precisa utilizar um client para invocar os
 Alguns Endpoints (Necessário substituir o 127.0.0.1 pelo endereço correto do servidor. Configurações de cors já estão definidas):
 
 * **HTTP POST** http://127.0.0.1/api/register
-* **HTTP POST** http://127.0.0.1/api/login HTTP
+* **HTTP POST** http://127.0.0.1/api/login
 * **HTTP GET** http://127.0.0.1/api/logout
 
 #### API Resource: 
